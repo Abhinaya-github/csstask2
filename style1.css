@@ -1,0 +1,100 @@
+
+.div{
+    height: 700px;
+    width: 500px;
+    border: 2px;
+    border-style: solid;
+    
+}
+.sec1{
+    height: 170px;
+    width: 110px;
+    border: 2px;
+    border-style: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+.sec2{
+    height: 170px;
+    width: 110px;
+    border: 2px;
+    border-style: solid;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.sec3{
+    height: 150px;
+ width: 210px;
+ border: 2px;
+ border-style: solid;
+ margin-right: 10px;
+ margin-bottom: 20px;
+ 
+ display: inline-block;
+}
+.sec4{
+    height: 130px;
+ width: 200px;
+ border: 2px;
+ border-style: solid;
+ margin-right: 10px;
+ margin-bottom: 20px;
+ margin-left: 10px;
+ 
+ display: inline-block;
+}
+.sec5{
+    height: 130px;
+ width: 240px;
+ border: 2px;
+ border-style: solid;
+ margin-right: 10px;
+ margin-bottom: 20px;
+ margin-left: 10px;
+ 
+ display: inline-block;
+}
+.sec6{
+    height: 150px;
+ width: 310px;
+ border: 2px;
+ border-style: solid;
+ margin-right: 10px;
+ margin-bottom: 20px;
+ margin-left: 10px;
+ 
+ display: inline-block;
+}
+.sec7{
+    height: 150px;
+ width: 130px;
+ border: 2px;
+ border-style: solid;
+ margin-right: 10px;
+ margin-bottom: 20px;
+ margin-left: 10px;
+ 
+ display: inline-block;
+}
+.footer{
+    height: 150px;
+    border: 2px;
+    border-style: solid;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.nav{
+    height: 50px;
+    width: 70px;
+    border: 2px;
+    border-style: solid;
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-bottom: 50;
+}
